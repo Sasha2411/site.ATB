@@ -1,0 +1,181 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+header img{
+    width: 67px;
+    height: 67px;
+    margin-top: 5px;
+    float: left;
+}
+
+header img:hover{
+    position: relative;
+    width: 75px;
+    height: 75px;
+    transition: 2s;
+}
+
+header{
+    background-color: #334FB1;
+    height: 75px;
+}
+
+span{
+    color: #FF0000;
+    margin-top: 25px;
+}
+
+header h1{
+    color: black;
+    position: relative;
+    top: 21px;
+    left: 30px;
+}
+
+header h1:hover{
+    position: relative;
+    margin-bottom: 21px;
+    font-size: 40px;
+    transition: 2s;
+}
+
+footer{
+    background-color: #334FB1;
+    height: 75px;
+}
+
+footer p{
+    font-size: 40px;
+    position: relative;
+    top: 10px;
+    left: 30px;
+}
+
+main h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+.img1{
+    position: relative;
+    height: 300px;
+}
+
+.img2{
+    position: relative;
+    height: 300px;
+}
+
+.img3{
+    position: relative;
+    height: 300px;
+}
+
+.img4{
+    position: relative;
+    height: 300px;
+    margin-left: 100px;
+}
+
+.img5{
+    position: relative;
+    height: 300px;
+    margin-left: 100px;
+}
+
+.img6{
+    position: relative;
+    height: 300px;
+    margin-left: 100px;
+    border: 5px double blue;
+    border-radius: 150px;
+}
+
+.product a{
+    font-size: 30px;
+    background-color: #5297FF;
+    color: #FF0000;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 5px solid black;
+    border-radius: 10px;
+    position: relative;
+    left: 150px;
+    top: 75px;
+    margin-bottom: 100px;
+    float: left;
+    text-decoration: none;
+}
+
+.batton:hover{
+    transition: 2s;
+    font-size: 35px;
+    color: black;
+}
+
+.batton1:hover{
+    transition: 2s;
+    font-size: 35px;
+    color: black;
+}
+
+
+.batton2:hover{
+    transition: 2s;
+    font-size: 35px;
+    color: black;
+}
+
+.batton4:hover{
+    transition: 2s;
+    font-size: 35px;
+    color: black;
+}
+
+.batton5:hover{
+    transition: 2s;
+    font-size: 35px;
+    color: black;
+}
+
+
+.batton6:hover{
+    transition: 2s;
+    font-size: 35px;
+    color: black;
+}
+
+.batton3{
+    font-size: 30px;
+    background-color: #ffffff;
+    color: #b0adad;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 5px solid black;
+    border-radius: 10px;
+    position: relative;
+    left: 220px;
+    top: -65px;
+    text-decoration: none;
+}
+
+.batton3:hover{
+    transition: 2s;
+    color: red;
+}
+
+.products{
+    display: flex;
+}
+
+.product:first-child{
+    float: left;
+}
+
+nav{
+    margin-left: 50px;
+}
