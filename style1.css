@@ -1,0 +1,219 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+header img{
+    width: 67px;
+    height: 67px;
+    margin-top: 5px;
+    float: left;
+}
+
+header img:hover{
+    position: relative;
+    width: 75px;
+    height: 75px;
+    transition: 2s;
+}
+
+header{
+    background-color: #334FB1;
+    height: 75px;
+}
+
+span{
+    color: #FF0000;
+    margin-top: 25px;
+}
+
+header h1{
+    color: black;
+    position: relative;
+    top: 21px;
+    left: 30px;
+}
+
+header h1:hover{
+    position: relative;
+    margin-bottom: 21px;
+    font-size: 40px;
+    transition: 2s;
+}
+
+footer{
+    background-color: #334FB1;
+    height: 75px;
+}
+
+footer p{
+    font-size: 40px;
+    position: relative;
+    top: 10px;
+    left: 30px;
+}
+
+main h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+.batton3{
+    font-size: 30px;
+    background-color: #ffffff;
+    color: #b0adad;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 5px solid black;
+    border-radius: 10px;
+    position: relative;
+    left: 230px;
+    top: -65px;
+}
+
+.batton3:hover{
+    transition: 2s;
+    color: sred;
+}
+
+main p{
+    font-size: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.img5{
+    margin-left: 30px;
+    width: 400px;
+    height: 400px;
+}
+
+.img6{
+    position: relative;
+    left: 50px;
+    top: 0px;
+    width: 420px;
+    height: 400px;
+}
+
+.img7{
+    position: relative;
+    left: 50px;
+    width: 500px;
+    height: 400px;
+}
+
+.batton4{
+    font-size: 30px;
+    background-color: #ffffff;
+    color: #b0adad;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 5px solid black;
+    border-radius: 10px;
+    position: relative;
+    left: 230px;
+    top: -65px;
+}
+
+.batton4:hover{
+    transition: 2s;
+    color: red;
+}
+
+.batton5{
+    font-size: 30px;
+    background-color: #ffffff;
+    color: #b0adad;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 5px solid black;
+    border-radius: 10px;
+    position: relative;
+    left: 230px;
+    top: -65px;
+}
+
+.batton5:hover{
+    transition: 2s;
+    color: red;
+}
+
+.batton6{
+    font-size: 30px;
+    background-color: #ffffff;
+    color: #b0adad;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 5px solid black;
+    border-radius: 10px;
+    position: relative;
+    left: 230px;
+    top: -65px;
+}
+
+.batton6:hover{
+    transition: 2s;
+    color: red;
+}
+
+.batton7{
+    font-size: 30px;
+    background-color: #ffffff;
+    color: #b0adad;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 5px solid black;
+    border-radius: 10px;
+    position: relative;
+    left: 230px;
+    top: -65px;
+}
+
+.batton7:hover{
+    transition: 2s;
+    color: red;
+}
+
+.batton8{
+    font-size: 30px;
+    background-color: #ffffff;
+    color: #b0adad;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 5px solid black;
+    border-radius: 10px;
+    position: relative;
+    left: 230px;
+    top: -65px;
+}
+
+.batton8:hover{
+    transition: 2s;
+    color: red;
+}
+
+.batton9{
+    font-size: 30px;
+    background-color: #ffffff;
+    color: #b0adad;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 5px solid black;
+    border-radius: 10px;
+    position: relative;
+    left: 230px;
+    top: -65px;
+}
+
+.batton9:hover{
+    transition: 2s;
+    color: red;
+}
