@@ -1,0 +1,155 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+header img{
+    width: 67px;
+    height: 67px;
+    margin-top: 5px;
+    float: left;
+}
+
+header img:hover{
+    position: relative;
+    width: 75px;
+    height: 75px;
+    transition: 2s;
+}
+
+header{
+    background-color: #334FB1;
+    height: 75px;
+}
+
+span{
+    color: #FF0000;
+    margin-top: 25px;
+}
+
+header h1{
+    color: black;
+    position: relative;
+    top: 21px;
+    left: 30px;
+}
+
+header h1:hover{
+    position: relative;
+    margin-bottom: 21px;
+    font-size: 40px;
+    transition: 2s;
+}
+
+footer{
+    background-color: #334FB1;
+    height: 75px;
+}
+
+footer p{
+    font-size: 40px;
+    position: relative;
+    top: 10px;
+    left: 30px;
+}
+
+main h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+.img1{
+    position: relative;
+    margin-bottom: 130px;
+    width: 500px;
+    height: 400px;
+}
+
+.img2{
+    position: relative;
+    margin-bottom: 130px;
+    width: 500px;
+    height: 390px;
+}
+
+.img3{
+    position: relative;
+    margin-bottom: 130px;
+    width: 500px;
+    height: 400px;
+}
+
+.product a{
+    font-size: 30px;
+    color: black;
+    float: left;
+    position: relative;
+    left: 150px;
+}
+
+.batton:hover{
+    color: red;
+    font-size: 40px;
+    transition: 2s;
+    font-family: Georgia;
+}
+
+.batton1:hover{
+    color: red;
+    font-size: 40px;
+    transition: 2s;
+    font-family: Georgia;
+}
+
+.batton2:hover{
+    color: red;
+    font-size: 40px;
+    transition: 2s;
+    font-family: Georgia;
+}
+
+.batton3{
+    font-size: 30px;
+    background-color: #ffffff;
+    color: #b0adad;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 5px solid black;
+    border-radius: 10px;
+    position: relative;
+    left: 230px;
+    top: -65px;
+}
+
+.batton3:hover{
+    transition: 2s;
+    color: red;
+}
+
+.batton6{
+    font-size: 30px;
+    background-color: #ffffff;
+    color: #b0adad;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 5px solid black;
+    border-radius: 10px;
+    position: relative;
+    left: 260px;
+    top: -65px;
+}
+
+.batton6:hover{
+    transition: 2s;
+    color: red;
+}
+
+.products{
+    display: flex;
+}
+
+.product:first-child{
+    float: left;
+}
