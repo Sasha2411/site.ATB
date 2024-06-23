@@ -151,6 +151,11 @@ main h2{
     display: flex;
 }
 
+
+
+
+
+
 .product:first-child{
     float: left;
 }
